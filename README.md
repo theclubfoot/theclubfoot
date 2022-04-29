@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lawrence Adams
 #### I am fullstack engineer
-I made this project just for guap.
+I made this project to document my journey as a front-end developer.
 
 Skills: Shell / Bash / C  
 
