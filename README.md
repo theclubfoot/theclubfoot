@@ -2,10 +2,10 @@
 #### I am a front-end engineer
 I made this project to document my journey as a front-end developer.
 
-Skills: Shell / Bash / C  
+Skills: Python / JavaScript / C / Shell 
 
 - 🔭 I’m currently working on Software Engineerring (front -end) 
-- 🌱 I’m currently learning Python / C / React JS 
+- 🌱 I’m currently learning Python / C / JavaScript
 - 📫 How to reach me: @the_clubfoot on Twitter 
 
 
