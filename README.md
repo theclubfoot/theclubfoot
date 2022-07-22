@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Lawrence Adams
-#### I am a front-end engineer
-I made this project to document my journey as a front-end developer.
+#### I am a software engineer
+I made this project to document my journey in tech.
 
-Skills: Python / JavaScript / C / Shell 
+Skills: C / JavaScript / ReactJS / Git / SQL /  Python
 
 - 🔭 I’m currently working on Software Engineerring (front -end) 
 - 🌱 I’m currently learning Python / C / JavaScript
