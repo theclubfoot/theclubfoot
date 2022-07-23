@@ -4,7 +4,7 @@ I made this project to document my journey in tech.
 
 Skills: C / JavaScript / ReactJS / Git / SQL /  Python
 
-- 🔭 I’m currently working on Software Engineerring (front -end) 
+- 🔭 I’m currently working on Software Engineering 
 - 🌱 I’m currently learning Python / C / JavaScript
 - 📫 How to reach me: @the_clubfoot on Twitter 
 
